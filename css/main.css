@@ -1,0 +1,25 @@
+body {
+    background-color:black;
+    color:white;
+}
+header {
+    text-align:center;
+    font-size:20px;
+}
+#PANEL {
+    background-color: gray;
+    color: black;
+}
+#ACTIONPANEL {
+    background-color: gray;
+    color:black;
+}
+#FOOTER {
+	text-align: center;
+}
+#CURRENTTEMPO{
+	font-size: 99px;
+}
+#HITSLEFT{
+	font-size:99px;
+}
